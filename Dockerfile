@@ -1,4 +1,4 @@
-FROM alpine:4.3
+FROM alpine:3.3
 MAINTAINER Stefan Lemme <stefan.lemme@dfki.de>
 
 WORKDIR /srv
